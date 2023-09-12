@@ -1,11 +1,11 @@
 {
-  "name": "img2buff",
+  "name": "img2bfr",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "img2buff": "./CLI/index.js"
+    "img2bfr": "./CLI/index.js"
   },
   
   "scripts": {
